@@ -1,3 +1,3 @@
-# Reusable Github Workflows Template
+# Reusable Github Workflows Markdown
 
-Project to fork to instanciate reusable workflows and with `release-please` delivery.
+Reusable workflows to ensure to match markdown linter rules.
