@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/oliv3340/reusable-workflows-markdown/compare/v2.0.0...v2.0.1) (2024-05-06)
+
+
+### Bug Fixes
+
+* add md rule ([519f47a](https://github.com/oliv3340/reusable-workflows-markdown/commit/519f47a2f2283ac5a9e38925c83aec9912eb35a5))
+
 ## [2.0.0](https://github.com/oliv3340/reusable-workflows-markdown/compare/v1.0.1...v2.0.0) (2024-05-06)
 
 
