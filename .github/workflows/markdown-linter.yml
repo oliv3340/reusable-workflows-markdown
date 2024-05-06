@@ -9,7 +9,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Markdown Lint
-        uses: ruzickap/action-my-markdown-linter@v1
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v3.3.0
         with:
-          exclude: CHANGELOG.md
+          files: .
+          config_file: .markdownlint.yaml
+          dot: true
+          ignore_files: "CHANGELOG.md"
