@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/oliv3340/reusable-workflows-markdown/compare/v1.0.1...v2.0.0) (2024-05-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* change action md linter
+
+### Features
+
+* change action md linter ([4579eff](https://github.com/oliv3340/reusable-workflows-markdown/commit/4579eff18554a8cbb0758f815f345281f916a0ba))
+
 ## [1.0.1](https://github.com/oliv3340/reusable-workflows-markdown/compare/v1.0.0...v1.0.1) (2024-04-24)
 
 
